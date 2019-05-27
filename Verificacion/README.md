@@ -11,7 +11,7 @@ Página web sencilla que nos permite introducir por pantalla el nombre de un usu
 
 ## Instrucciones de instalación
 1. Clonar el repositorio git.
-2. Instalar las librerias listadas en <a href="https://github.com/pablogrubio/PracticaFinalVerificacion/blob/master/requirements.txt">requirements.txt</a>
+2. Instalar las librerias listadas en <a href=https://github.com/pablogrubio/PracticaFinalVerificacion/blob/master/Verificacion/requirements.txt">requirements.txt</a>
 
 ## Instrucciones para ejecutar el servidor
 1. Abrir la consola de comandos.
