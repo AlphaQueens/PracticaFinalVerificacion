@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 class selenium_tests(TestCase):
     def set_up(self):
-        driver = webdriver.Firefox(executable_path= r'C:\Django projects\Prueba\Verificacion\geckodriver\geckodriver.exe')
+        driver = webdriver.Firefox()
         driver.get("http://127.0.0.1:8000/")
         return driver
 
